@@ -1,0 +1,12 @@
+﻿  聪明的小蛇.c
+e:\学习资料\聪明的小蛇\聪明的小蛇\聪明的小蛇.c(958): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\学习资料\聪明的小蛇\聪明的小蛇\聪明的小蛇.c(958): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+e:\学习资料\聪明的小蛇\聪明的小蛇\聪明的小蛇.c(993): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\学习资料\聪明的小蛇\聪明的小蛇\聪明的小蛇.c(1006): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\学习资料\聪明的小蛇\聪明的小蛇\聪明的小蛇.c(1022): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\学习资料\聪明的小蛇\聪明的小蛇\聪明的小蛇.c(1027): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  聪明的小蛇.vcxproj -> E:\学习资料\聪明的小蛇\Debug\聪明的小蛇.exe
